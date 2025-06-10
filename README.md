@@ -1,5 +1,7 @@
 # Pomodoro Timer
 
+![Demo of Pomodoro Timer](demo.png)
+
 A simple, stylish Pomodoro timer web app to help you focus and boost productivity using the Pomodoro Technique.
 
 ## Features
